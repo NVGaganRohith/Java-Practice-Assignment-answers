@@ -1,0 +1,1 @@
+This is a random text file which was created by Nadella Venkata gagan rohith to solve the 1st question of da3, this file contains some random text which will be copied to an different file using file input and output streams.
